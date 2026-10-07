@@ -1,0 +1,13 @@
+id,cliente,localidad,provincia,peso_kg
+ENV-0001,Cliente A,Rosario,Santa Fe,12.5
+ENV-0002,Cliente B,Córdoba,Córdoba,3.2
+ENV-0003,Cliente A,San Isidro,Buenos Aires,40
+ENV-0004,Cliente C,La Plata,Buenos Aires,8.75
+ENV-0005,Cliente B,Mar del Plata,Buenos Aires,15
+ENV-0006,Cliente D,Neuquén,Neuquén,22.4
+ENV-0007,Cliente C,Villa María,Córdoba,5
+ENV-0008,Cliente A,Mendoza,Mendoza,60
+ENV-0009,Cliente D,Salta,Salta,9.9
+ENV-0010,Cliente B,Quilmes,Buenos Aires,31
+ENV-0011,Cliente C,Villa Inventada,Córdoba,4.5
+ENV-0012,Cliente D,Rosario,Santa Fe,18
